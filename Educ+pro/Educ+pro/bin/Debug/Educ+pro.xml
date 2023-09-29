@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Educ+pro
+</name>
+</assembly>
+<members>
+<member name="T:Educ_pro.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Educ_pro.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Educ_pro.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Educ_pro.My.Resources.Resources.EsconderPassword">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Educ_pro.My.Resources.Resources.MostrarPassword">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AdministradoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AlunosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.DisciplinasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ModulosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.NotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ProfessoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasDisciplinasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AdministradoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AlunosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.DisciplinasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ModulosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.NotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ProfessoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasDisciplinasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AdministradoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.AlunosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.DisciplinasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ModulosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.NotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.ProfessoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSet.TurmasDisciplinasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.AdministradoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.AlunosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.DisciplinasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.ModulosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.NotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.ProfessoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.TurmasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.TurmasDisciplinasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Educ_pro.DatabasePAPDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Educ_pro.DatabasePAPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Educ_pro.DatabasePAPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.UpdateAll(Educ_pro.DatabasePAPDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Educ_pro.DatabasePAPDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

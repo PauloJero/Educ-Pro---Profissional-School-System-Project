@@ -1,0 +1,105 @@
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.pdb
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.xml
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Form1.resources
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Resources.resources
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.GenerateResource.Cache
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb
+D:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.LoginForm.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.pdb
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.xml
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAdmins.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAluno.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddDisciplina.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddProfessor.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddTurma.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Admins.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Alunos.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Disciplinas.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuInicial.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.LoginForm.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuPrincipal.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Resources.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Professores.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Turmas.resources
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.GenerateResource.Cache
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+C:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.pdb
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.xml
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbprojAssemblyReference.cache
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAdmins.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAluno.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddDisciplina.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddProfessor.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddTurma.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Admins.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Alunos.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Disciplinas.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuInicial.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.LoginForm.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuPrincipal.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Resources.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Professores.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Turmas.resources
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.GenerateResource.cache
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.CoreCompileInputs.cache
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+C:\PAP - Vasco Rodrigues31052017\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.pdb
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.xml
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAdmins.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAluno.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddDisciplina.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddProfessor.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddTurma.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Admins.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Alunos.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Disciplinas.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuInicial.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.LoginForm.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuPrincipal.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Resources.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Professores.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Turmas.resources
+F:\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.pdb
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.xml
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAdmins.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddAluno.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddDisciplina.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddProfessor.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.AddTurma.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Admins.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Alunos.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Disciplinas.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuInicial.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.LoginForm.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.MenuPrincipal.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Resources.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Professores.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP___Vasco_Rodrigues.Turmas.resources
+C:\Users\Paulo\Desktop\PAP - Vasco Rodrigues\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\PAP\PAP - Vasco Rodrigues\bin\Debug\PAP - Vasco Rodrigues.exe.config
+C:\Users\Paulo\Desktop\PAP\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.exe
+C:\Users\Paulo\Desktop\PAP\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.xml
+C:\Users\Paulo\Desktop\PAP\PAP - Vasco Rodrigues\obj\Debug\PAP - Vasco Rodrigues.pdb

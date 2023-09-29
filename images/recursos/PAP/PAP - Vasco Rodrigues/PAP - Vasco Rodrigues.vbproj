@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89F46A4A-1562-441A-92BA-31F872DB6158}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PAP___Vasco_Rodrigues.My.MyApplication</StartupObject>
+    <RootNamespace>PAP___Vasco_Rodrigues</RootNamespace>
+    <AssemblyName>PAP - Vasco Rodrigues</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PAP - Vasco Rodrigues.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PAP - Vasco Rodrigues.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAdmins.Designer.vb">
+      <DependentUpon>AddAdmins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdmins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAluno.Designer.vb">
+      <DependentUpon>AddAluno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAluno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDisciplina.Designer.vb">
+      <DependentUpon>AddDisciplina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddDisciplina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProfessor.Designer.vb">
+      <DependentUpon>AddProfessor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddProfessor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTurma.Designer.vb">
+      <DependentUpon>AddTurma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddTurma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins.Designer.vb">
+      <DependentUpon>Admins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alunos.Designer.vb">
+      <DependentUpon>Alunos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alunos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabasePAPDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabasePAPDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplinas.Designer.vb">
+      <DependentUpon>Disciplinas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplinas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuInicial.Designer.vb">
+      <DependentUpon>MenuInicial.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Professores.Designer.vb">
+      <DependentUpon>Professores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Professores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turmas.Designer.vb">
+      <DependentUpon>Turmas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Turmas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddAdmins.resx">
+      <DependentUpon>AddAdmins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAluno.resx">
+      <DependentUpon>AddAluno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDisciplina.resx">
+      <DependentUpon>AddDisciplina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProfessor.resx">
+      <DependentUpon>AddProfessor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTurma.resx">
+      <DependentUpon>AddTurma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins.resx">
+      <DependentUpon>Admins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alunos.resx">
+      <DependentUpon>Alunos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disciplinas.resx">
+      <DependentUpon>Disciplinas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuInicial.resx">
+      <DependentUpon>MenuInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professores.resx">
+      <DependentUpon>Professores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turmas.resx">
+      <DependentUpon>Turmas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DatabasePAPDataSet.xsc">
+      <DependentUpon>DatabasePAPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabasePAPDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabasePAPDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabasePAPDataSet.xss">
+      <DependentUpon>DatabasePAPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
